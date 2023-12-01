@@ -9,5 +9,3 @@ This is a prototype for DefSemTP, a tool for the formalization of the semantics 
 - Run main
 - Once complete, open the Alloy analyzer, and execute the model bpmn_model_substitutor.als
 - If an instance is found, the model eventually completes and is safe.
-
-  
